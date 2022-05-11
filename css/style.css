@@ -71,7 +71,7 @@ body {
     overflow: hidden;
 }
 
-.container__slide-img_btn button {
+.container__slide-img_btn .btn {
     border: none;
     border-color: transparent;
     background-color: #fff;
@@ -79,19 +79,23 @@ body {
     transition: 0.3s ease-in-out;
 }
 
-.container__slide-img_btn button:hover {
+.container__slide-img_btn .btn span {
+    display: none;
+}
+
+.container__slide-img_btn .btn:hover {
     background-color: #E7E4F9;
 }
 
-.container__slide-img_btn > button:nth-child(1) {
+.container__slide-img_btn > .btn:nth-child(1) {
     padding-right: 1.8rem;
 }
 
-.container__slide-img_btn button:last-child {
+.container__slide-img_btn .btn:last-child {
     padding-left: 1.8rem; 
 }
 
-.container__slide-img_btn button > img {
+.container__slide-img_btn .btn > img {
     width: 1rem;
 }
 
