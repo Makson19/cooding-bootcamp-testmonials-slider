@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Makson19/cooding-bootcamp-testmonials-slider)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://makson19.github.io/cooding-bootcamp-testmonials-slider/)
 
 ## My process
 
